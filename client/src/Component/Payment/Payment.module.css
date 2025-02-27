@@ -1,0 +1,13 @@
+.payButton {
+  background-color: hsl(84, 100%, 59%);
+  min-width: 80px;
+  height: 40px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 0 7px;
+}
+
+.payButton:hover {
+  background-color: hsl(84, 100%, 39%);
+}

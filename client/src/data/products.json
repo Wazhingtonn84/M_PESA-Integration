@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Darknet",
+    "price": 1,
+    "imageSrc": "products/darknet.jpg"
+  },
+
+  {
+    "name": "Freefall",
+    "price": 1,
+    "imageSrc": "products/freefall.jpg"
+  },
+
+  {
+    "name": "Nightshade",
+    "price": 1,
+    "imageSrc": "products/nightshade.jpg"
+  }
+]

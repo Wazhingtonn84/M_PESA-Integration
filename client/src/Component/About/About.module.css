@@ -1,0 +1,47 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  border-radius: 15px;
+  padding: 20px;
+  padding-left: 5px;
+  margin-top: 5px;
+  z-index: 1;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.description {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+/* @media screen and (max-width: 830px) {
+  .container {
+    background-color: transparent;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .content {
+    flex-direction: column;
+  }
+  .aboutImage {
+    display: none;
+  }
+  .aboutItems {
+    margin-top: 29px;
+  }
+  .aboutItem {
+    padding-left: 0;
+    padding-right: 0;
+  }
+} */
